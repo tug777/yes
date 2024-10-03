@@ -1,23 +1,35 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'pokemon',
+    'qual primeiro pokemon do red?',
+    'O poliwhirl'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'master duel',
+    'Qual o deck top 1 atual ?',
+    'yubel'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'pokemon',
+    'quem é o deus pokemon ?',
+    'arceus'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'yu gi oh',
+    'quem é o protagonista do gx ?',
+    ''
+)
+
+criaCartao(
+    'pokemon',
+    'qual é o pokemon criado por giovane ?',
+    'mewtwo'
+)
+
+criaCartao(
+    'master duel',
+    'qual tipo da primaveira feliz?',
+    'fogo'
 )
