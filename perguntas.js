@@ -17,19 +17,19 @@ criaCartao(
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'yu gi oh',
+    'quem é o protagonista do gx ?',
+    ''
 )
 
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'pokemon',
+    'qual é o pokemon criado por giovane ?',
+    'mewtwo'
 )
 
 criaCartao(
-    'Programação',
-    'O que é Python?',
+    'master duel',
+    '',
     'O Python é uma linguagem de programação'
 )
