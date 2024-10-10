@@ -19,7 +19,7 @@ criaCartao(
 criaCartao(
     'yu gi oh',
     'quem é o protagonista do gx ?',
-    ''
+    'jaden'
 )
 
 criaCartao(
