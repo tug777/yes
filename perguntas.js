@@ -30,6 +30,6 @@ criaCartao(
 
 criaCartao(
     'master duel',
-    'qual tipo da primaveira feliz?',
+    'qual tipo (Elemento)da primaveira feliz?',
     'fogo'
 )
